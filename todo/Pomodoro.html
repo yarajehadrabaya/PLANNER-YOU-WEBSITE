@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="Pomodoro.css">
+    <link href="https://fonts.googleapis.com/css2?family=Alkatra:wght@400;700&family=Henny+Penny&display=swap" rel="stylesheet">
+    <title>Pomodoro Timer</title>
+</head>
+<body>
+        
+<header>
+    <img src="logo.png" class="logo">  <div class="roc">
+        <img src="pomodord.png" alt="">
+      </div>
+<nav class="nav">
+
+    <a href="#"  onclick="home()">Home Page</a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">About</a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#"  class="active"  onclick="ser()">Service</a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#">     </a>
+    <a href="#" onclick="cont()">Contact</a>
+    <a href="#">     </a>
+        <a href="#">     </a>
+        <a href="#">     </a>
+        <a href="#">     </a>
+        <a href="#">     </a>
+        <a href="#">     </a>
+        <a href="#">     </a>
+        <a href="#">     </a>
+        <a href="#">     </a>
+    <a href="#"  onclick="revv()">your reviews</a>
+       
+</nav>
+</header>
+    <h1>Pomodoro Timer:
+    </h1>
+    <div id="container">
+        <p id="work" class="label">Work:</p><p id="break" class="label">Break:</p><p id="cycles" class="label">Cycles:</p>
+        <!--Work Timer-->
+        <div id="work-timer" class="timer">
+            <p id="w_minutes">25</p><p class="semicolon">:</p><p id="w_seconds">00</p> <!--change it for pres-->
+        </div>
+
+        <!--Cycle Counter-->
+        <p id="counter" class="timer">0</p>
+
+        <!--Break Timer-->
+        <div id="break-timer" class="timer">
+            <p id="b_minutes">15</p><p class="semicolon">:</p><p id="b_seconds">00</p>
+        </div>
+        <button id="start" class="btn">Start</button>
+        <button id="stop" class="btn">Pause</button>
+        <button id="reset" class="btn">Reset</button>
+    </div>
+    <script src="Pomodoro.js"></script>
+</body>
+</html>
