@@ -1,0 +1,103 @@
+body{
+    font-family: 'Alkatra';
+    width: 100%;
+    height: 100vh;
+    background-image: url(rev.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+    padding: 0 8%;
+    height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+    
+}
+header{
+ position: fixed;
+ top: 1px;0;
+ left:0;
+ width: 100%;
+ padding: 10px 10px;
+ display: flex;
+ align-items: center;
+ z-index: 100; 
+
+
+}
+.logo{
+  width: 130px; 
+  cursor:pointer;
+  margin: 10px;
+}
+.nav a {
+  text-decoration: none;
+  color:#bbc8ce;
+  pading:6px 15px;
+  border-radius: 20px;
+  margin: 0 10px;
+  font-weight: 600;
+  font-size: 20px;
+}
+.nav a:hover, .nav a.active{
+  background: #d0a311;
+  color:#fff;
+  
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.rate {
+    position: fixed;
+    float: left;
+    height: 46px;
+    padding: 0 10px;
+    background-color: #cccccc00;
+    background-attachment: fixed;
+}
+.rate h4{
+  
+    font-size: 80px;
+    color: #f87400;
+    text-align: center;
+    line-height: 10px;
+   
+}
+.rate:not(:checked) > input {
+    position: fixed;
+    
+    top:-9999px;
+}
+.rate:not(:checked) > label {
+    
+    float:right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:90px;
+    color:#ccc;
+}
+.rate:not(:checked) > label:before {
+    content: '★ ';
+    size:100px;
+}
+.rate > input:checked ~ label {
+    color: #ffc700;    
+}
+.rate:not(:checked) > label:hover,
+.rate:not(:checked) > label:hover ~ label {
+    color: #deb217;  
+}
+.rate > input:checked + label:hover,
+.rate > input:checked + label:hover ~ label,
+.rate > input:checked ~ label:hover,
+.rate > input:checked ~ label:hover ~ label,
+.rate > label:hover ~ input:checked ~ label {
+    color: #c59b08;
+}
+
+/* Modified from: https://github.com/mukulkant/Star-rating-using-pure-css */
