@@ -14,4 +14,10 @@ ________________________________________________________________________________
 ###### NOTE: "Responsive for laptop and computer only"
 _______________________________________________________________________________________________________________________
 ### Pictures of the website design:
-<img src="C:\Users\Yara jehad\Downloads"
+<div>
+<img src="redme pic/1.JPG" width="300">
+<img src="redme pic/2.JPG" width="300">
+<img src="redme pic/3.JPG" width="300">
+<img src="redme pic/4.JPG" width="300">
+<img src="redme pic/6.JPG" width="300">
+<img src="redme pic/7.JPG" width="300">
