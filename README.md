@@ -31,6 +31,13 @@ ________________________________________________________________________________
 #### *rate us :
 ###### 1-🤩 The ability of the user to evaluate the experience of the site through the number of stars.
 
+#### *User registration :
+###### 1-📧Enter the user's email.
+###### 2-✏️Enter the first and second name.
+###### 3-	📲Enter the phone number.
+###### 4-🔐Enter the password and re-confirm it.
+
+
 ______________________________________________________________________________________________________________________
 ### Languages used?
 ###### HTML
