@@ -4,7 +4,7 @@
  The goal of this website is to provide tools to help increase the productivity of a person, whether at work or study.
 Using effective techniques in this field, such as the Pomodoro Technique and the To-Do List.
 ### 🌍 Live Demo :
-[planner you](https://planneryou.netlify.app/index.html) - Click on it to open
+[planner you](https://planneryou.netlify.app/index.html) - "Responsive for laptop and computer only"
 ### Authors:
 * 💻Yara Jehad Rabaya
 _______________________________________________________________________________________________________________________
