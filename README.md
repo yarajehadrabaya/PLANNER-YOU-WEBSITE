@@ -3,11 +3,20 @@
 ### What is the goal of this website?
  The goal of this website is to provide tools to help increase the productivity of a person, whether at work or study.
 Using effective techniques in this field, such as the Pomodoro Technique and the To-Do List.
-### linke of website:
+### 🌍 Live Demo :
 [planner you](https://planneryou.netlify.app/index.html) - Click on it to open
+### Authors:
+* 💻Yara Jehad Rabaya
 _______________________________________________________________________________________________________________________
 ### Project Type ?
 Front end 
+_______________________________________________________________________________________________________________________
+### Features:
+#### 1-➕ Create a to-do item with a title.
+#### 2-✅ Mark a to-do item as complete.
+#### 3-❌ Delete a to-do item.
+#### 4-👀 View all to-do items.
+#### 5- 🔄 Filter to-do items by completion status (completed or not completed) 
 _______________________________________________________________________________________________________________________
 ### Languages used?
 ###### HTML
