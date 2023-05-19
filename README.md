@@ -13,23 +13,23 @@ Front end
 _______________________________________________________________________________________________________________________
 ### Features:
 #### *TODO LIST:
-##### 1-➕ Create a to-do item with a title.
-##### 2-✅ Mark a to-do item as complete.
-##### 3-❌ Delete a to-do item.
-##### 4-👀 View all to-do items.
-##### 5- 🔄 Filter to-do items by completion status (completed or not completed)
+###### 1-➕ Create a to-do item with a title.
+###### 2-✅ Mark a to-do item as complete.
+###### 3-❌ Delete a to-do item.
+###### 4-👀 View all to-do items.
+###### 5- 🔄 Filter to-do items by completion status (completed or not completed)
 
 #### *Pomodoro timer :
-##### 1-▶️ Twenty-five minute timer run.
-##### 2-⏸️ Puase timer.
-##### 3-🔄Reset timer.
-##### 4-📵count the number of pomodoro cycles you have been done.
+###### 1-▶️ Twenty-five minute timer run.
+###### 2-⏸️ Puase timer.
+###### 3-🔄Reset timer.
+###### 4-📵count the number of pomodoro cycles you have been done.
 
 #### *Communication links :
-##### 1-📲User navigation buttons for author accounts.
+###### 1-📲User navigation buttons for author accounts.
 
 #### *rate us :
-##### 1-🤩 The ability of the user to evaluate the experience of the site through the number of stars.
+###### 1-🤩 The ability of the user to evaluate the experience of the site through the number of stars.
 
 ______________________________________________________________________________________________________________________
 ### Languages used?
