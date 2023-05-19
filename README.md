@@ -3,8 +3,8 @@
 ### What is the goal of this website?
  The goal of this website is to provide tools to help increase the productivity of a person, whether at work or study.
 Using effective techniques in this field, such as the Pomodoro Technique and the To-Do List.
-#### linke of website:
-[planner you](https://planneryou.netlify.app/index.html) - linke of website
+### linke of website:
+[planner you](https://planneryou.netlify.app/index.html) - Click on it to open
 _______________________________________________________________________________________________________________________
 ### Project Type ?
 Front end 
