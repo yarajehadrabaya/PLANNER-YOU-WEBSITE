@@ -12,12 +12,19 @@ ________________________________________________________________________________
 Front end 
 _______________________________________________________________________________________________________________________
 ### Features:
-#### 1-➕ Create a to-do item with a title.
-#### 2-✅ Mark a to-do item as complete.
-#### 3-❌ Delete a to-do item.
-#### 4-👀 View all to-do items.
-#### 5- 🔄 Filter to-do items by completion status (completed or not completed) 
-_______________________________________________________________________________________________________________________
+#### *TODO LIST:
+##### 1-➕ Create a to-do item with a title.
+##### 2-✅ Mark a to-do item as complete.
+##### 3-❌ Delete a to-do item.
+##### 4-👀 View all to-do items.
+##### 5- 🔄 Filter to-do items by completion status (completed or not completed)
+
+#### *Pomodoro timer :
+##### 1-▶️ Twenty-five minute timer run.
+##### 2-⏸️ Puase timer.
+##### 3-🔄Reset timer.
+##### 4-📵count the number of pomodoro cycles you have been done.
+______________________________________________________________________________________________________________________
 ### Languages used?
 ###### HTML
 ###### CSS
