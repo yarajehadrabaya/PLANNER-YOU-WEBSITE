@@ -24,6 +24,10 @@ ________________________________________________________________________________
 ##### 2-⏸️ Puase timer.
 ##### 3-🔄Reset timer.
 ##### 4-📵count the number of pomodoro cycles you have been done.
+
+#### *Communication links :
+##### 1-📲User navigation buttons for author accounts.
+
 ______________________________________________________________________________________________________________________
 ### Languages used?
 ###### HTML
