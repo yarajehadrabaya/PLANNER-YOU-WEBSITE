@@ -6,7 +6,7 @@ Using effective techniques in this field, such as the Pomodoro Technique and the
 ### 🌍 Live Demo :
 [planner you](https://planneryou.netlify.app/index.html) - "Responsive for laptop and computer only"
 ### Authors:
-* 💻Yara Jehad Rabaya
+* 	👩💻Yara Jehad Rabaya
 _______________________________________________________________________________________________________________________
 ### Project Type ?
 Front end 
