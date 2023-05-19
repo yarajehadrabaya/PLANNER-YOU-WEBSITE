@@ -28,6 +28,9 @@ ________________________________________________________________________________
 #### *Communication links :
 ##### 1-📲User navigation buttons for author accounts.
 
+#### *rate us :
+##### 1-🤩 The ability of the user to evaluate the experience of the site through the number of stars.
+
 ______________________________________________________________________________________________________________________
 ### Languages used?
 ###### HTML
