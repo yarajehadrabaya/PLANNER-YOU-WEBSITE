@@ -19,5 +19,5 @@ ________________________________________________________________________________
 <img src="redme pic/2.JPG" width="300">
 <img src="redme pic/3.JPG" width="300">
 <img src="redme pic/4.JPG" width="300">
-<img src="redme pic/6.JPG" width="300">
+<img src="redme pic/6.PNG" width="300">
 <img src="redme pic/7.JPG" width="300">
